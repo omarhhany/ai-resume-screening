@@ -3,7 +3,7 @@
 An AI-powered web application that ranks resumes based on job descriptions using Natural Language Processing (NLP).
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here after deployment)
+👉 https://ai-resume-screening-8wjv4f9wpp5sh4tzblnqpk.streamlit.app/
 
 ## 🧠 Features
 - Upload multiple PDF resumes
@@ -11,7 +11,7 @@ An AI-powered web application that ranks resumes based on job descriptions using
 - Resume-job matching using TF-IDF
 - Skill-based scoring system
 - Candidate ranking based on relevance
-- Interactive web interface with Streamlit
+- Interactive web interface built with Streamlit
 
 ## 🛠️ Tech Stack
 - Python
